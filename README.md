@@ -1,5 +1,3 @@
-# second_brain
-second_brain
-
+This is My Second Brain
 
 
